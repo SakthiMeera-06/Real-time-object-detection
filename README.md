@@ -158,9 +158,9 @@ Through this project, I learned about:
 
 ## 👩‍💻 Author
 
-**Your Name**
+**SAKTHI MEERA**
 
-GitHub: [Your GitHub Profile](https://github.com/SakthiMeera-06)
+GitHub: [My GitHub Profile](https://github.com/SakthiMeera-06)
 
 ## 📄 License
 
